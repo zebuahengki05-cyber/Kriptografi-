@@ -35,7 +35,6 @@ Spasi, angka, dan tanda baca tidak diubah dan tidak menggeser posisi kunci.
 - Validasi kunci (harus mengandung huruf)
 
 ## Cara Menjalankan
-Pastikan Python 3 sudah terpasang, lalu jalankan:
 
 ```bash
 python vigenere.py
