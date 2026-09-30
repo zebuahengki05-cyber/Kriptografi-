@@ -27,7 +27,6 @@ Huruf besar/kecil dipertahankan, sedangkan angka, spasi, dan tanda baca tidak di
 - **Brute force**: mencoba seluruh 25 kemungkinan kunci untuk memecahkan ciphertext
 
 ## Cara Menjalankan
-Pastikan Python 3 sudah terpasang, lalu jalankan:
 
 ```bash
 python caesar.py
