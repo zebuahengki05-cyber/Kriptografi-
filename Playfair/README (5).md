@@ -37,7 +37,6 @@ Hasil dekripsi: `HIDETHEGOLDX` (spasi hilang dan `X` di akhir adalah huruf pengi
 - Menampilkan matriks kunci 5x5 pada setiap proses
 
 ## Cara Menjalankan
-Pastikan Python 3 sudah terpasang, lalu jalankan:
 
 ```bash
 python playfair.py
